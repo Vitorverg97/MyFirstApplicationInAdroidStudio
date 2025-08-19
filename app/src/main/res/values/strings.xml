@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyFirstApplication</string>
+    <string name ="try_click_me">Try click me</string>
+</resources>
